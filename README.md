@@ -34,3 +34,6 @@ from the list)
 
 ## Documentation
 Documentation for this project: https://kwierchomska.github.io/GameOfLife/
+
+## Visuzalization 
+![20200425_183124](https://user-images.githubusercontent.com/58556676/80285307-31112100-8724-11ea-9e0c-928e82ce306b.gif)

@@ -31,3 +31,6 @@ from the list)
 * Every cell is random. There are 50% of alive and 50% of dead cell.
 2. The Queen Bee Shuttle Pattern
 3. Tumbler Pattern
+
+## Documentation
+Documentation for this project: https://kwierchomska.github.io/GameOfLife/
